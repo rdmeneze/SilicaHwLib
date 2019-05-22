@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Silica_IntLib.LibPkg
+[Project2]
+ProjectPath=Capacitors.LibPkg
+[Project3]
+ProjectPath=Resistors.LibPkg
