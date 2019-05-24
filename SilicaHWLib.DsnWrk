@@ -6,3 +6,23 @@ ProjectPath=Silica_IntLib.LibPkg
 ProjectPath=Capacitors.LibPkg
 [Project3]
 ProjectPath=Resistors.LibPkg
+[Project4]
+ProjectPath=VoltageReference.LibPkg
+[Project5]
+ProjectPath=Transistors.LibPkg
+[Project6]
+ProjectPath=PowerManagement.LibPkg
+[Project7]
+ProjectPath=Oscillators.LibPkg
+[Project8]
+ProjectPath=Logic_74xx.LibPkg
+[Project9]
+ProjectPath=Littlefuse - ResettablePTCs.LibPkg
+[Project10]
+ProjectPath=Linear.LibPkg
+[Project11]
+ProjectPath=FixingHoles.LibPkg
+[Project12]
+ProjectPath=Diode.LibPkg
+[Project13]
+ProjectPath=Crystal.LibPkg
