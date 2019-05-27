@@ -26,3 +26,5 @@ ProjectPath=FixingHoles.LibPkg
 ProjectPath=Diode.LibPkg
 [Project13]
 ProjectPath=Crystal.LibPkg
+[Project14]
+ProjectPath=Connectors.LibPkg
