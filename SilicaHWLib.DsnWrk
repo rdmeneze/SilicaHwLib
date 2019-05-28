@@ -28,3 +28,7 @@ ProjectPath=Diode.LibPkg
 ProjectPath=Crystal.LibPkg
 [Project14]
 ProjectPath=Connectors.LibPkg
+[Project15]
+ProjectPath=STMicroelectronics STM32 F0.LibPkg
+[Project16]
+ProjectPath=STMicroelectronics STM32 F4.LibPkg
