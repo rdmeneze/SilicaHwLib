@@ -32,3 +32,5 @@ ProjectPath=Connectors.LibPkg
 ProjectPath=STMicroelectronics STM32 F0.LibPkg
 [Project16]
 ProjectPath=STMicroelectronics STM32 F4.LibPkg
+[Project17]
+ProjectPath=adc-dac.LibPkg
