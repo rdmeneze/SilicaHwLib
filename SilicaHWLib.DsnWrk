@@ -34,3 +34,11 @@ ProjectPath=STMicroelectronics STM32 F0.LibPkg
 ProjectPath=STMicroelectronics STM32 F4.LibPkg
 [Project17]
 ProjectPath=adc-dac.LibPkg
+[Project18]
+ProjectPath=MCU_ST_STM32F4.LibPkg
+[Project19]
+ProjectPath=MCU_ST_STM32F0.LibPkg
+[Project20]
+ProjectPath=MCU_ST_STM32L0.LibPkg
+[Project21]
+ProjectPath=MCU_ST_STM32L4.LibPkg
