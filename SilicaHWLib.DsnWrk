@@ -42,3 +42,5 @@ ProjectPath=MCU_ST_STM32F0.LibPkg
 ProjectPath=MCU_ST_STM32L0.LibPkg
 [Project21]
 ProjectPath=MCU_ST_STM32L4.LibPkg
+[Project22]
+ProjectPath=MCU_MICROCHIP_SAM.LibPkg
